@@ -3,7 +3,7 @@
 This is a machine learning project that involves multi-class classification to predict the status of university students, whether they are a dropout, enrolled, or graduate. The dataset used in this project was provided by Kaggle, and it was a contest in which **I achieved the 22nd rank out of 209 participants, which is in the top 11%.**
 
 ## About Me
-My name is Sudeep Sinha, and I completed this machine learning project under the supervision of IIT Madras. After completing the project and achieving the 22nd rank in the contest, **I gave a viva to IIT Madras POD and received an A grade for the viva.**
+My name is Sudeep Sinha, and I completed this machine learning project under the supervision of IIT Madras.After completing the project and achieving the 22nd rank in the contest, I was required to present my work in a viva to the IIT Madras Program of Study and Evaluation (POD). During the viva, I was asked questions about my approach, methodology, and results, and I had to defend my work and demonstrate my understanding of the project. The experience of presenting my work in front of a panel of experts was both challenging and rewarding, and I learned a lot from the feedback and critiques I received. Overall, this project has been a great learning experience for me, and I'm grateful for the opportunity to have worked on it under the guidance of IIT Madras.
 
 ## Project Details
 ### Project Name
